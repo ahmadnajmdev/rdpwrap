@@ -15,7 +15,3 @@ __history/
 # MSI local stuff
 *.wixobj
 *.wixpdb
-.gitignore
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
